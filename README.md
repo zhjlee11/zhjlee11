@@ -5,10 +5,10 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhjlee11&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## About Me
-**Major Languages :** ![Python](http://img.shields.io/badge/-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+**Major Languages :**  ![Python](http://img.shields.io/badge/-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
-**Major Skills :** ![Tensorflow](http://img.shields.io/badge/-Tensorflow_2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**Major Skills :**  ![Tensorflow](http://img.shields.io/badge/-Tensorflow_2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
