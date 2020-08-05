@@ -5,4 +5,5 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhjlee11&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## About Me
-Major Skills : ![tensorflow](http://img.shields.io/badge/-Tensorflow-E34F26?style=flat-square&logo=tensorflow&logoColor=white)
+Major Skills : ![Tensorflow](http://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
