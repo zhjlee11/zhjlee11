@@ -6,4 +6,4 @@
 
 ## About Me
 Major Skills : ![Tensorflow](http://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch](http://img.shields.io/badge/-PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
