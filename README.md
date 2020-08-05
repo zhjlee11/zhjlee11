@@ -1,4 +1,4 @@
-### 한 프로그래머의 작은 세계선
+# 한 프로그래머의 작은 세계선
 반갑습니다. 라플라스입니다.
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=zhjlee11&theme=buefy&show_icons=true)-->
