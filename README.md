@@ -6,7 +6,7 @@
 
 ## About Me
 **Major Languages :**  ![Python](http://img.shields.io/badge/-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](http://img.shields.io/badge/-C#_3-239120?style=flat-square&logo=C_Sharp&logoColor=white)
+![C#](http://img.shields.io/badge/-C%23_3-239120?style=flat-square&logo=CSharp&logoColor=white)
 
 
 
