@@ -14,7 +14,7 @@
 ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-**Studying :** ![Tensorflow](http://img.shields.io/badge/-Selenium-FFFFFF?style=flat-square&logoColor=green)
+**Studying :** ![Tensorflow](http://img.shields.io/badge/-Selenium-1DDB16?style=flat-square&logoColor=green)
 
 
 ## Web Site
