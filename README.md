@@ -19,8 +19,10 @@
 
 
 ## Web Site
-http://laplaceworldline.herokuapp.com/
+홈페이지 : http://laplaceworldline.herokuapp.com/
 [무료 호스팅이라 접속 시 시간이 좀 소요됩니다.]
+티스토리 블로그 : https://laplace04.tistory.com/
+네이버 블로그(티스토리 블로그로 이전 중입니다.) : https://blog.naver.com/zhjlee11
 
 ## Portfolio & Project
 http://laplaceworldline.herokuapp.com/portfolio
