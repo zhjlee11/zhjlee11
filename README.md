@@ -6,16 +6,18 @@
 
 ## About Me
 **Major Languages :**  ![Python](http://img.shields.io/badge/-Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 
 
 
 **Major Skills :**  ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![PyQt5](http://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Selenium](http://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=green)
+<!--![Unity](http://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)-->
 <!--![Tensorflow](http://img.shields.io/badge/-Tensorflow_2-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)-->
 
-**Studying Newly :** ![Sele](http://img.shields.io/badge/-Selenium-1DDB16?style=flat-square&logoColor=green)
+**Studying Newly :** ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=green)
 
 
 ## Web Site
